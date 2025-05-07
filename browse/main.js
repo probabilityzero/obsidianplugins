@@ -29218,7 +29218,7 @@ async function registerOpenProjectBrowserCommand() {
 }
 async function registerOpenProjectBrowserRibbonIcon() {
   const { plugin } = getGlobals();
-  plugin.addRibbonIcon(PLUGIN_ICON, "Open project browser", () => {
+  plugin.addRibbonIcon(PLUGIN_ICON, "Open browser", () => {
     newProjectBrowserLeaf();
   });
 }
