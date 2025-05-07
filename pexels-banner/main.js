@@ -29551,15 +29551,12 @@ var PixelBannerSettingTab = class extends import_obsidian6.PluginSettingTab {
     const mainContent = containerEl.createEl("div", { cls: "pixel-banner-main-content" });
     const { tabsEl, tabContentContainer } = this.createTabs(mainContent, [
       "\u2699\uFE0F General",
-      "\u2728 Plus",
       "\u{1F5FA}\uFE0F Custom Fields",
       "\u{1F5C3}\uFE0F Folder Groups",
       "\u{1F310} 3rd Party APIs"
     ]);
     const generalTab = tabContentContainer.createEl("div", { cls: "tab-content", attr: { "data-tab": "\u2699\uFE0F General" } });
     createGeneralSettings(generalTab, this.plugin);
-    const pixelBannerPlusTab = tabContentContainer.createEl("div", { cls: "tab-content", attr: { "data-tab": "\u2728 Plus" } });
-    createPixelBannerPlusSettings(pixelBannerPlusTab, this.plugin);
     const customFieldsTab = tabContentContainer.createEl("div", { cls: "tab-content", attr: { "data-tab": "\u{1F5FA}\uFE0F Custom Fields" } });
     createCustomFieldsSettings(customFieldsTab, this.plugin);
     const apiTab = tabContentContainer.createEl("div", { cls: "tab-content", attr: { "data-tab": "\u{1F310} 3rd Party APIs" } });

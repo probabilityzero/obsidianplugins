@@ -9274,8 +9274,8 @@ var SimpleRSSPlugin = class extends import_obsidian7.Plugin {
       );
     }
     const ribbonIconEl = this.addRibbonIcon(
-      "refresh-cw",
-      "Simple RSS",
+      "rss",
+      "Refresh Feeds",
       (evt) => {
         this.feeds.syncFeeds(this.app.vault);
       }
