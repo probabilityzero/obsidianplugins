@@ -1,0 +1,17 @@
+{
+  "token": "7720795879:AAER2miciSshYosWlruEphwiHjf5BtuyRGY",
+  "marker": "#inbox",
+  "allow_users": [
+    "5448835036",
+    "1432226558"
+  ],
+  "download_dir": "Cortex/Utilities/Archive/Attachments",
+  "download_media": true,
+  "markdown_escaper": false,
+  "message_template": "     \n  `{{time}}`\n{{{text}}}\n     ",
+  "is_custom_file": false,
+  "custom_file_path": "Telegram-Inbox.md",
+  "disable_auto_reception": false,
+  "reverse_order": false,
+  "bullet": false
+}

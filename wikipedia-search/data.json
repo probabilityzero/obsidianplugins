@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "searchLimit": 10,
+  "thumbnailWidth": null,
+  "defaultNotePath": "/Cortex/Utilities/Databank",
+  "templates": [
+    {
+      "name": "Default",
+      "templateString": "# {title}\n\n----\n{intro}\n\n> **{title}** - [Wikipedia]({url})\n> *{description}*\n----\n\n",
+      "createNote": false,
+      "customPath": "",
+      "useTemplateFile": false,
+      "templateFilePath": ""
+    }
+  ],
+  "autoInsertSingleResponseQueries": false,
+  "autoSearchNoteTitle": true,
+  "prioritizeArticleTitle": false,
+  "cleanupIntros": true,
+  "openArticleInFullscreen": true,
+  "openCreatedNotes": false,
+  "overrideFiles": false,
+  "showedWebviewerMessage": false,
+  "openArticlesInBrowser": false,
+  "showedSurfingMessage": false,
+  "placeCursorInfrontOfInsert": true
+}

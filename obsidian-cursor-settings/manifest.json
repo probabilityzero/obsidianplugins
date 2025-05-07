@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-cursor-settings",
+	"name": "Cursor settings",
+	"version": "1.0.9",
+	"minAppVersion": "0.9.12",
+	"description": "Remembers cursor and scroll position for each note",
+	"author": "Dmitry Savosh",
+	"authorUrl": "https://github.com/dy-sh/",
+	"isDesktopOnly": false
+}

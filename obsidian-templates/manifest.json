@@ -1,0 +1,10 @@
+{
+    "id": "templater-obsidian",
+    "name": "Templates",
+    "version": "2.7.2",
+    "description": "Create notes using advance templates",
+    "minAppVersion": "1.5.0",
+    "author": "SilentVoid",
+    "authorUrl": "https://github.com/SilentVoid13",
+    "isDesktopOnly": false
+}

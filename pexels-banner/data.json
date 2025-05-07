@@ -1,0 +1,70 @@
+{
+  "apiProvider": "all",
+  "pexelsApiKey": "aC7CgGEhYI9VJZvjsgBwTGuwJxbCUiDF6enVezTlUhxGmPVeRTjEHIxk",
+  "pixabayApiKey": "",
+  "flickrApiKey": "",
+  "unsplashApiKey": "iAQEy2PCoadefA30vqaOkBq446NSZTIzhMlbJ80qtmA",
+  "imageSize": "large",
+  "imageOrientation": "landscape",
+  "numberOfImages": 5,
+  "defaultKeywords": "nature, abstract, landscape, technology, art, cityscape, wildlife, ocean, mountains, forest, space, architecture, food, travel, science, music, sports, fashion, business, education, health, culture, history, weather, transportation, industry, people, animals, plants, patterns",
+  "yPosition": 50,
+  "customBannerField": [
+    "banner",
+    "pexels-banner"
+  ],
+  "customYPositionField": [
+    "banner-y"
+  ],
+  "customContentStartField": [
+    "content-start"
+  ],
+  "customImageDisplayField": [
+    "banner-display"
+  ],
+  "customImageRepeatField": [
+    "banner-repeat"
+  ],
+  "customBannerHeightField": [
+    "banner-height"
+  ],
+  "customFadeField": [
+    "banner-fade"
+  ],
+  "customBorderRadiusField": [
+    "banner-radius"
+  ],
+  "customTitleColorField": [
+    "banner-inline-title-color"
+  ],
+  "customBannerShuffleField": [
+    "banner-shuffle"
+  ],
+  "folderImages": [
+    {
+      "folder": "Cortex/Lifebook",
+      "image": "Winter wallpaper ",
+      "yPosition": 50,
+      "contentStartPosition": 150,
+      "imageDisplay": "cover",
+      "imageRepeat": false,
+      "directChildrenOnly": false
+    }
+  ],
+  "contentStartPosition": 150,
+  "imageDisplay": "cover",
+  "imageRepeat": false,
+  "bannerHeight": 400,
+  "fade": -85,
+  "borderRadius": 17,
+  "showPinIcon": true,
+  "pinnedImageFolder": "Waypoint/Utilities/Archive/Banner",
+  "showReleaseNotes": false,
+  "lastVersion": "2.13.1",
+  "showRefreshIcon": true,
+  "showViewImageIcon": false,
+  "hidePixelBannerFields": true,
+  "hidePropertiesSectionIfOnlyBanner": true,
+  "titleColor": "var(--inline-title-color)",
+  "enableImageShuffle": false
+}

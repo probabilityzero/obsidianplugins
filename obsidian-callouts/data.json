@@ -1,0 +1,48 @@
+{
+  "callouts": {
+    "custom": [
+      "dawn",
+      "noon",
+      "dusk",
+      "til"
+    ],
+    "settings": {
+      "dawn": [
+        {
+          "changes": {
+            "icon": "lucide-leaf",
+            "color": "0, 255, 0"
+          }
+        }
+      ],
+      "noon": [
+        {
+          "changes": {
+            "icon": "lucide-cloud",
+            "color": "204, 167, 159"
+          }
+        }
+      ],
+      "dusk": [
+        {
+          "changes": {
+            "color": "161, 175, 207"
+          }
+        }
+      ],
+      "til": [
+        {
+          "changes": {
+            "icon": "lucide-waypoints",
+            "color": "107, 123, 113"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

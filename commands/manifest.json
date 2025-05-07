@@ -1,0 +1,10 @@
+{
+	"id": "commands",
+	"name": "Commands",
+	"version": "0.5.1",
+	"minAppVersion": "1.4.0",
+	"description": "Customize your workspace by adding commands everywhere, create Macros and supercharge your mobile toolbar.",
+	"author": "jsmorabito & phibr0",
+	"authorUrl": "https://github.com/phibr0",
+	"isDesktopOnly": false
+}

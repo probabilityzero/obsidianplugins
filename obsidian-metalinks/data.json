@@ -1,0 +1,22 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 6,
+    "name": "Saturday",
+    "shortName": "Sa"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": false,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [],
+  "excludedFolders": [
+    "templates"
+  ]
+}

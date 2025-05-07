@@ -1,0 +1,10 @@
+{
+	"id": "surfing",
+	"name": "Browser",
+	"version": "0.9.12",
+	"minAppVersion": "1.4.0",
+	"description": "Web browser in Obsidian.",
+	"author": "Boninall & Windily-cloud",
+	"authorUrl": "https://github.com/Quorafind",
+	"isDesktopOnly": false
+}

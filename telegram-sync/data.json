@@ -1,0 +1,44 @@
+{
+  "botToken": "6596023145:AAFDdocZaJj4kRRQSiK-n-6A0UdvkzkmUfE",
+  "deleteMessagesFromTelegram": false,
+  "allowedChats": [
+    "5448835036"
+  ],
+  "mainDeviceId": "5c8bbd39-a566-48c4-9d02-26d3047be572",
+  "pluginVersion": "3.2.0",
+  "telegramSessionType": "user",
+  "telegramSessionId": 20240927140209596,
+  "betaVersion": "",
+  "connectionStatusIndicatorType": "CONSTANT",
+  "cacheCleanupAtStartup": false,
+  "messageDistributionRules": [
+    {
+      "messageFilterQuery": "{{all}}",
+      "messageFilterConditions": [
+        {
+          "conditionType": "all",
+          "operation": "",
+          "value": ""
+        }
+      ],
+      "templateFilePath": "",
+      "notePathTemplate": "/Cortex/Genesis/{{content:30}}.md",
+      "filePathTemplate": "Cortex/Utilities?Archive/Media FIles/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "reversedOrder": false,
+      "heading": ""
+    }
+  ],
+  "defaultMessageDelimiter": true,
+  "parallelMessageProcessing": false,
+  "processOldMessages": false,
+  "processOldMessagesSettings": {
+    "lastProcessingDate": 1730374754,
+    "daysLimit": 14,
+    "dialogsLimit": 100,
+    "messagesLimit": 1000,
+    "chatsForSearch": []
+  },
+  "processOtherBotsMessages": false,
+  "retryFailedMessagesProcessing": false,
+  "topicNames": []
+}

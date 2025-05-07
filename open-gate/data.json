@@ -1,0 +1,27 @@
+{
+  "uuid": "11pgt2x249bp73pxdbvzwne",
+  "gates": {
+    "aHR0cHM6Ly9hcnhpdi5vcmcv": {
+      "id": "aHR0cHM6Ly9hcnhpdi5vcmcv",
+      "title": "ArXiv",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9hcnhpdi5vcmcv\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://arxiv.org/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9jb2RlcGVuLmlvLw==": {
+      "id": "aHR0cHM6Ly9jb2RlcGVuLmlvLw==",
+      "title": "Chicken",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://fetch-favicon.fly.dev/favicon/aHR0cHM6Ly9jb2RlcGVuLmlvLw%3D%3D\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "https://codepen.io/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

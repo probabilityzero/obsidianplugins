@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "",
+    "folder": "Cortex/Lifebook",
+    "template": "Waypoint/Utilities/Templates/DailyTemplate.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY (w[W])",
+    "folder": "Cortex/Lifebook",
+    "template": "Waypoint/Utilities/Archive/Templates/WeeklyTemplate.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "[Handbook]",
+    "template": "",
+    "folder": "Waypoint",
+    "enabled": true
+  }
+}

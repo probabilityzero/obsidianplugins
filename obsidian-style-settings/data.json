@@ -1,0 +1,17 @@
+{
+  "encore-settings@@encore-disable-logo-on-hr": true,
+  "encore-settings@@theme-dark": "encore-theme-dark",
+  "encore-settings@@theme-light": "encore-theme-light",
+  "encore-settings@@encore-translucency": false,
+  "encore-settings@@colors": "encore-colors-neutral",
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@blur-amount": "encore-blur-less",
+  "encore-settings@@encore-translucency-strength": 0.25,
+  "encore-settings@@encore-translucency-blur-amount": 10,
+  "typomagical-title@@font-title": "Playfair Display",
+  "typomagical-text@@callout-quote-style": true,
+  "typomagical-colour@@theme-variant": "obsidian",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-colour@@ss-background-color": "#161616",
+  "typomagical-text@@blockquote": "blockquote-neuomorphic"
+}
