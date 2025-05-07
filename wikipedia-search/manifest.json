@@ -1,6 +1,6 @@
 {
 	"id": "wikipedia-search",
-	"name": "Wikipedia Search",
+	"name": "Wikipedia search",
 	"version": "2.6.1",
 	"minAppVersion": "0.15.0",
 	"description": "Search, link and open Wikipedia/Wiki articles, all within the app!",

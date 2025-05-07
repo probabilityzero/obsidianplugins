@@ -1,6 +1,6 @@
 {
 	"id": "simple-rss",
-	"name": "Simple RSS",
+	"name": "Blog feeds",
 	"version": "0.3.12",
 	"minAppVersion": "0.15.0",
 	"description": "Collect RSS articles into notes.",

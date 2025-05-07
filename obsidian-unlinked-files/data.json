@@ -1,5 +1,5 @@
 {
-  "outputFileName": "Unlinked files",
+  "outputFileName": "Unlinked notes",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [
     "Misc./"
@@ -20,8 +20,8 @@
   "unresolvedLinksTagsToIgnore": [],
   "withoutTagsDirectoriesToIgnore": [],
   "withoutTagsFilesToIgnore": [],
-  "withoutTagsOutputFileName": "Files without tags",
-  "emptyFilesOutputFileName": "Empty files",
+  "withoutTagsOutputFileName": "Notes without tags",
+  "emptyFilesOutputFileName": "Empty notes",
   "emptyFilesDirectories": [],
   "emptyFilesFilesToIgnore": [],
   "emptyFilesIgnoreDirectories": true,

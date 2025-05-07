@@ -1,6 +1,6 @@
 {
 	"id": "obsidian-paste-as-html",
-	"name": "Paste As Html",
+	"name": "Save as HTML",
 	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Paste As Html, Keep the original css style. Paste from web browser",
